@@ -1,6 +1,7 @@
 package com.guanyun.springboot.Controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
@@ -12,6 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @time 10:01
  */
 @RestController
+@ResponseBody
 public class HelloWorldController {
 
     @RequestMapping("/")
