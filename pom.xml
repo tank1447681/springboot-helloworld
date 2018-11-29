@@ -6,7 +6,6 @@
 
     <groupId>springboot</groupId>
     <artifactId>springboot-helloworld</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <!-- Spring Boot 启动父依赖 -->
