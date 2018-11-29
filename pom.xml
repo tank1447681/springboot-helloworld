@@ -8,6 +8,7 @@
     <artifactId>springboot-helloworld</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>springboot-helloworld :: HelloWorld Demo</name>
+    <packaging>war</packaging>
 
     <!-- Spring Boot 启动父依赖 -->
     <parent>
